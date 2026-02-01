@@ -1,0 +1,15 @@
+# Docker
+db_data/
+
+# Backend
+backend/vendor/
+backend/var/
+backend/.env.local
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# System
+.DS_Store
+.vscode/
